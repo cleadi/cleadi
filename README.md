@@ -4,7 +4,7 @@ I'm Dillon, a full stack software developer focused on building responsive and i
 
 ## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/learned-technologies.png?raw=true" style="height: 40px"></a>
 
-## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/javascript.png?raw=true" style="height: 40px"></a><a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/html.png?raw=true" style="height: 40px"></a>
+### <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/javascript.png?raw=true" style="height: 40px"></a> ###<a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/html.png?raw=true" style="height: 40px"></a>
 
 
 <!--
