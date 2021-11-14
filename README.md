@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/javascript.png?raw=true" style="height: 40px"></a>
+              
+
 <!--
 **cleadi/cleadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
