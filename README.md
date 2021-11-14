@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hello! 👋
 
-## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/technologies/javascript.png?raw=true" style="height: 40px"></a>
-              
+I'm Dillon, a full stack software developer focused on building responsive and intuitive applications for the web. Here you'll find some of the projects I've worked on while attending the Univesity of Minnesota Boot Camps coding program. Feel free to reach out with any thoughts, ideas, or general feedback! You can also find me on [LinkedIn](https://www.linkedin.com/in/dillon-cleaver/) or at [dilloncleaver.com](https://www.dilloncleaver.com/).
+
+## <a href="#readme-badge"><img id="usage" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/learned-technologies.png?raw=true" style="height: 40px"></a>
+
+
 
 <!--
 **cleadi/cleadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
